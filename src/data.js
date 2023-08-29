@@ -1,5 +1,6 @@
 import youtubepic from "./images/youtubepic.png";
 import metaversuspic from "./images/metaversus.png";
+import carhubpic from "./images/carhub (2).png";
 
 export const projects = [
   {
@@ -17,6 +18,14 @@ export const projects = [
       "This project was made using Next.js and showcases different animations. As well as showing great website design and layout.",
     image: metaversuspic,
     link: "https://iridescent-pavlova-4b6a56.netlify.app/",
+  },
+  {
+    title: "CarHub",
+    subtitle: "",
+    description:
+      "This project was made using Next.js and typscript. This project uses an api to grab cars and shows a car hub like cargurus. The website is sleek and clean.",
+    image: carhubpic,
+    link: "https://car-hub-tllw.vercel.app/",
   },
 ];
 
