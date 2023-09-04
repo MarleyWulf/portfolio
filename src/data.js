@@ -10,7 +10,7 @@ export const projects = [
     description:
       "This project is a youtube clone made with React using the youtube api. With this api you can search for videos and be able to play them on the app.",
     image: youtubepic,
-    link: "https://splendorous-froyo-b8543c.netlify.app/",
+    link: "https://youtube-streaming-clone.netlify.app/",
   },
   {
     title: "Metaversus",
@@ -18,7 +18,7 @@ export const projects = [
     description:
       "This project was made using Next.js and showcases different animations. As well as showing great website design and layout.",
     image: metaversuspic,
-    link: "https://iridescent-pavlova-4b6a56.netlify.app/",
+    link: "https://metaversus-page.netlify.app/",
   },
   {
     title: "CarHub",
@@ -34,7 +34,7 @@ export const projects = [
     description:
       "This project was made using HTML, CSS, and Javascript to make a simple, but effective page. The animations are made using the AOS library.",
     image: sushiboy,
-    link: "https://zingy-biscuit-024f52.netlify.app/",
+    link: "https://sushiboy-page.netlify.app/",
   },
 ];
 
